@@ -1,5 +1,5 @@
 ## Your name: Ethan McCall
-## The option you've chosen: 
+## The option you've chosen: Option 2
 
 # Put import statements you expect to need here!
 import unittest
